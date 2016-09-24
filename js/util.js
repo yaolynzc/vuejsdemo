@@ -15,6 +15,10 @@ function init(){
       todoss:[
         {text:'Add some todoss01'},
         {text:'Add some todoss02'}
+      ],
+      items:[
+        {message:'Foo'},
+        {message:'Bar'}
       ]
     },
     methods:{
@@ -33,4 +37,5 @@ function init(){
       }
     }
   })
+
 }
